@@ -1,2 +1,2 @@
-# Dio_desafio_github
-bootcamp primeiro repositório
+# Desafio de Projeto Git/Github da DIO
+Repositorio criado para o desafio de projeto.
